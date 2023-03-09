@@ -1,6 +1,6 @@
 {
   "name": "gmc-webapps",
-  "homepage": "https://GMC-Nickies.github.io/gmc-webapps/",
+  "homepage": "https://GMC-Nickies.github.io/gmc-webapps-source/",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "version": "1.0.0",
   "private": true,
